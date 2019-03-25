@@ -1,0 +1,16 @@
+{
+  "roles": [
+    {
+      "name": "Release tokens",
+      "id": "RELEASE_TOKENS_ROLE",
+      "params": []
+    }
+  ],
+  "environments": {
+    "default": {
+      "network": "development",
+      "appName": "vestedvault.aragonpm.eth"
+    }
+  },
+  "path": "contracts/VestedVault.sol"
+}
